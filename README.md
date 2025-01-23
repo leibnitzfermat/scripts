@@ -1,2 +1,1 @@
-# scripts
-scripts diversos
+# scripts variados
